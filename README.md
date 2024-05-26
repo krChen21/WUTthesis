@@ -3,9 +3,9 @@
 ## 模板下载
 
 * 页面右边点击：**Clone or download -> Download Zip**
-* [Overleaf](https://github.com/mohuangrui/ucasthesis/wiki/字体配置#linuxoverleaf-系统的字体配置)
+* 字体配置请看：(https://github.com/mohuangrui/ucasthesis/wiki/字体配置#linuxoverleaf-系统的字体配置)
 
-## 请知晓
+## 请知悉
 
 * "wutthesis"完全依托于ucasthesis，本人只做了细节的修改。
 * 详细请见：(https://github.com/mohuangrui/ucasthesis)
@@ -25,4 +25,3 @@
 * "Img":正文中所需图片的所在位置
 * "Biblio":参考文献设置
 * "Biblio/ckr.bib":endnote所在(引用论文时将论文的endnote贴在这里)
-
