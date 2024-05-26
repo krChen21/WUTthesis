@@ -3,12 +3,11 @@
 ## 模板下载
 
 * 页面右边点击：**Clone or download -> Download Zip**
-* 字体配置请看：(https：//github.com/mohuangrui/ucasthesis/wiki/字体配置#linuxoverleaf-系统的字体配置)
+* 字体配置请看：(https://github.com/mohuangrui/ucasthesis/wiki/字体配置#linuxoverleaf-系统的字体配置)
 
 ## 请知悉
 
-* "wutthesis"完全依托于ucasthesis,本人只做了细节的修改
-* 详细请见：(https：//github.com/mohuangrui/ucasthesis)
+* "wutthesis"完全依托于[ucasthesis]{https://github.com/mohuangrui/ucasthesis},本人只做了细节的修改
 * 使用xelatex 编译方式
 
 ## 简单介绍
