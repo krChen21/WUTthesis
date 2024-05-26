@@ -9,6 +9,7 @@
 
 * "wutthesis"完全依托于ucasthesis,本人只做了细节的修改
 * 详细请见：(https：//github.com/mohuangrui/ucasthesis)
+* 使用xelatex 编译方式
 
 ## 简单介绍
 
